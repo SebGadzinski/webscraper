@@ -7,7 +7,7 @@ Scrapes all buisnesses within and around a city that are generalized around a bu
 1. Find Folder With Webscraper in Folders and copy the path
 ![alt text][finder]
 
-[finder]: https://github.com/SebGadzinski/webscraper/images/1.png
+[finder]: https://github.com/SebGadzinski/webscraper/images/1.PNG
 
 2. cd Path
 3. command: pip install -r requirements.txt - Dont worry about any red errors (;
@@ -15,4 +15,4 @@ Scrapes all buisnesses within and around a city that are generalized around a bu
 
 ![alt text][command]
 
-[command]: https://github.com/SebGadzinski/webscraper/images/2_4.png
+[command]: https://github.com/SebGadzinski/webscraper/images/2_4.PNG
