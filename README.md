@@ -3,6 +3,11 @@
 ## What it do
 Scrapes all buisnesses within and around a city that are generalized around a buisness (like coffee shops).
 
+## What's missing
+- Progress bar on own thread - Once Pressed Save To CSV, WAIT A LITTLE 
+- Additional Features like: Excluding Companies, Limiting amount of companies, ...
+- Better GUI lol
+
 ## Run
 1. Find Folder With Webscraper in Folders and copy the path
 
