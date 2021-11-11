@@ -7,6 +7,7 @@ Scrapes all buisnesses within and around a city that are generalized around a bu
 - Progress bar on own thread - Once Pressed Save To CSV, WAIT A LITTLE 
 - Additional Features like: Excluding Companies, Limiting amount of companies, ...
 - Better GUI lol
+- Better Folder Architecture
 
 ## Run
 1. Find Folder With Webscraper in Folders and copy the path
