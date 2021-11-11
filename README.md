@@ -10,9 +10,10 @@ Scrapes all buisnesses within and around a city that are generalized around a bu
 
 [finder]: https://github.com/SebGadzinski/webscraper/blob/main/images/1.PNG
 
-2. cd Path
-3. command: pip install -r requirements.txt - Dont worry about any red errors (;
-4. command: python main.py
+2. Open CDM
+3. command: cd Path
+4. command: pip install -r requirements.txt - Dont worry about any red errors (;
+5. command: python main.py
 
 ![alt text][command]
 
