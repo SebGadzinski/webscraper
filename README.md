@@ -18,8 +18,8 @@ Scrapes all buisnesses within and around a city that are generalized around a bu
 
 2. Open CDM
 3. command: cd Path
-4. command: pip install -r requirements.txt - Dont worry about any red errors (;
-5. command: python main.py
+4. command: pip3 install -r requirements.txt - Dont worry about any red errors (;
+6. command: python3 main.py
 
 ![alt text][command]
 
